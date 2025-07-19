@@ -1,6 +1,6 @@
 
-## 🛠 Skills
-Flutter, Dart, Flask, Python3
+## 🛠 Tech
+TypeScript, NodeJS, NextJS, Assembly
 
 
 ## Installation
