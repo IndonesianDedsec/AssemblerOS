@@ -1,4 +1,4 @@
-## 🛠 Tech
+## AssemblerOS
 Simple operating system for home server
 
 ## 🛠 Tech
