@@ -1,5 +1,20 @@
-# Firebase Studio
 
-This is a NextJS starter in Firebase Studio.
+## 🛠 Skills
+Flutter, Dart, Flask, Python3
 
-To get started, take a look at src/app/page.tsx.
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  git clone https://github.com/IndonesianDedsec/AssemblerOS
+  cd AssemblerOS
+  npm install
+  npm run dev
+```
+    
+## Authors
+
+- [@IndonesianDedsec](https://github.com/IndonesianDedsec)
+
