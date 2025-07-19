@@ -1,3 +1,5 @@
+## 🛠 Tech
+Simple operating system for home server
 
 ## 🛠 Tech
 TypeScript, NodeJS, NextJS, Assembly
